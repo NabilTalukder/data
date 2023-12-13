@@ -1,0 +1,134 @@
+﻿code,LA,workDist,workDistCat,Public%,WFH%
+E09000001,City of London,1,Less than 10km,0.317204301,
+E09000001,City of London,2,10km to less than 30km,0.645833333,
+E09000001,City of London,3,30km and over,0.3125,
+E09000001,City of London,4,Works mainly from home,0,0.713549921
+E09000002,Barking and Dagenham,1,Less than 10km,0.388067261,
+E09000002,Barking and Dagenham,2,10km to less than 30km,0.619045404,
+E09000002,Barking and Dagenham,3,30km and over,0.439015293,
+E09000002,Barking and Dagenham,4,Works mainly from home,0,0.26677571
+E09000003,Barnet,1,Less than 10km,0.347825246,
+E09000003,Barnet,2,10km to less than 30km,0.559673984,
+E09000003,Barnet,3,30km and over,0.270186335,
+E09000003,Barnet,4,Works mainly from home,0,0.503006873
+E09000004,Bexley,1,Less than 10km,0.21622472,
+E09000004,Bexley,2,10km to less than 30km,0.523802343,
+E09000004,Bexley,3,30km and over,0.281672817,
+E09000004,Bexley,4,Works mainly from home,0,0.415296531
+E09000005,Brent,1,Less than 10km,0.482291598,
+E09000005,Brent,2,10km to less than 30km,0.629739177,
+E09000005,Brent,3,30km and over,0.409142001,
+E09000005,Brent,4,Works mainly from home,0,0.373265569
+E09000006,Bromley,1,Less than 10km,0.231981227,
+E09000006,Bromley,2,10km to less than 30km,0.518368024,
+E09000006,Bromley,3,30km and over,0.251469353,
+E09000006,Bromley,4,Works mainly from home,0,0.536337808
+E09000007,Camden,1,Less than 10km,0.468196894,
+E09000007,Camden,2,10km to less than 30km,0.604011461,
+E09000007,Camden,3,30km and over,0.444660194,
+E09000007,Camden,4,Works mainly from home,0,0.624281555
+E09000008,Croydon,1,Less than 10km,0.34067308,
+E09000008,Croydon,2,10km to less than 30km,0.574753712,
+E09000008,Croydon,3,30km and over,0.358604495,
+E09000008,Croydon,4,Works mainly from home,0,0.442573782
+E09000009,Ealing,1,Less than 10km,0.388732862,
+E09000009,Ealing,2,10km to less than 30km,0.563141205,
+E09000009,Ealing,3,30km and over,0.303564584,
+E09000009,Ealing,4,Works mainly from home,0,0.428439589
+E09000010,Enfield,1,Less than 10km,0.303879818,
+E09000010,Enfield,2,10km to less than 30km,0.52428895,
+E09000010,Enfield,3,30km and over,0.284875184,
+E09000010,Enfield,4,Works mainly from home,0,0.380297291
+E09000011,Greenwich,1,Less than 10km,0.446025864,
+E09000011,Greenwich,2,10km to less than 30km,0.679282494,
+E09000011,Greenwich,3,30km and over,0.413505047,
+E09000011,Greenwich,4,Works mainly from home,0,0.471675388
+E09000012,Hackney,1,Less than 10km,0.439734926,
+E09000012,Hackney,2,10km to less than 30km,0.609203181,
+E09000012,Hackney,3,30km and over,0.479858657,
+E09000012,Hackney,4,Works mainly from home,0,0.557530465
+E09000013,Hammersmith and Fulham,1,Less than 10km,0.481057433,
+E09000013,Hammersmith and Fulham,2,10km to less than 30km,0.589693729,
+E09000013,Hammersmith and Fulham,3,30km and over,0.372774869,
+E09000013,Hammersmith and Fulham,4,Works mainly from home,0,0.579110103
+E09000014,Haringey,1,Less than 10km,0.534394142,
+E09000014,Haringey,2,10km to less than 30km,0.678715471,
+E09000014,Haringey,3,30km and over,0.486870897,
+E09000014,Haringey,4,Works mainly from home,0,0.492011117
+E09000015,Harrow,1,Less than 10km,0.29004426,
+E09000015,Harrow,2,10km to less than 30km,0.555639362,
+E09000015,Harrow,3,30km and over,0.282428356,
+E09000015,Harrow,4,Works mainly from home,0,0.436844854
+E09000016,Havering,1,Less than 10km,0.214542537,
+E09000016,Havering,2,10km to less than 30km,0.463975582,
+E09000016,Havering,3,30km and over,0.333438585,
+E09000016,Havering,4,Works mainly from home,0,0.409432256
+E09000017,Hillingdon,1,Less than 10km,0.249520467,
+E09000017,Hillingdon,2,10km to less than 30km,0.403321577,
+E09000017,Hillingdon,3,30km and over,0.239387169,
+E09000017,Hillingdon,4,Works mainly from home,0,0.37745446
+E09000018,Hounslow,1,Less than 10km,0.348912074,
+E09000018,Hounslow,2,10km to less than 30km,0.508809945,
+E09000018,Hounslow,3,30km and over,0.301140684,
+E09000018,Hounslow,4,Works mainly from home,0,0.385742422
+E09000019,Islington,1,Less than 10km,0.489649841,
+E09000019,Islington,2,10km to less than 30km,0.610949612,
+E09000019,Islington,3,30km and over,0.437796771,
+E09000019,Islington,4,Works mainly from home,0,0.616697567
+E09000020,Kensington and Chelsea,1,Less than 10km,0.450244215,
+E09000020,Kensington and Chelsea,2,10km to less than 30km,0.578356304,
+E09000020,Kensington and Chelsea,3,30km and over,0.348571429,
+E09000020,Kensington and Chelsea,4,Works mainly from home,0,0.63570498
+E09000021,Kingston upon Thames,1,Less than 10km,0.225711119,
+E09000021,Kingston upon Thames,2,10km to less than 30km,0.461759082,
+E09000021,Kingston upon Thames,3,30km and over,0.200674536,
+E09000021,Kingston upon Thames,4,Works mainly from home,0,0.528889428
+E09000022,Lambeth,1,Less than 10km,0.551166445,
+E09000022,Lambeth,2,10km to less than 30km,0.665909091,
+E09000022,Lambeth,3,30km and over,0.55842259,
+E09000022,Lambeth,4,Works mainly from home,0,0.564745412
+E09000023,Lewisham,1,Less than 10km,0.489385219,
+E09000023,Lewisham,2,10km to less than 30km,0.652517213,
+E09000023,Lewisham,3,30km and over,0.444603629,
+E09000023,Lewisham,4,Works mainly from home,0,0.515089729
+E09000024,Merton,1,Less than 10km,0.379542313,
+E09000024,Merton,2,10km to less than 30km,0.638301088,
+E09000024,Merton,3,30km and over,0.326432022,
+E09000024,Merton,4,Works mainly from home,0,0.506183681
+E09000025,Newham,1,Less than 10km,0.550717547,
+E09000025,Newham,2,10km to less than 30km,0.746481064,
+E09000025,Newham,3,30km and over,0.543916197,
+E09000025,Newham,4,Works mainly from home,0,0.360643972
+E09000026,Redbridge,1,Less than 10km,0.3117441,
+E09000026,Redbridge,2,10km to less than 30km,0.61488199,
+E09000026,Redbridge,3,30km and over,0.343759221,
+E09000026,Redbridge,4,Works mainly from home,0,0.421711223
+E09000027,Richmond upon Thames,1,Less than 10km,0.23404936,
+E09000027,Richmond upon Thames,2,10km to less than 30km,0.485928489,
+E09000027,Richmond upon Thames,3,30km and over,0.187613843,
+E09000027,Richmond upon Thames,4,Works mainly from home,0,0.64428459
+E09000028,Southwark,1,Less than 10km,0.533157091,
+E09000028,Southwark,2,10km to less than 30km,0.634408602,
+E09000028,Southwark,3,30km and over,0.538060026,
+E09000028,Southwark,4,Works mainly from home,0,0.540467181
+E09000029,Sutton,1,Less than 10km,0.222435337,
+E09000029,Sutton,2,10km to less than 30km,0.48111332,
+E09000029,Sutton,3,30km and over,0.221305842,
+E09000029,Sutton,4,Works mainly from home,0,0.434525238
+E09000030,Tower Hamlets,1,Less than 10km,0.510993809,
+E09000030,Tower Hamlets,2,10km to less than 30km,0.662706271,
+E09000030,Tower Hamlets,3,30km and over,0.482363316,
+E09000030,Tower Hamlets,4,Works mainly from home,0,0.560344148
+E09000031,Waltham Forest,1,Less than 10km,0.429506692,
+E09000031,Waltham Forest,2,10km to less than 30km,0.665613647,
+E09000031,Waltham Forest,3,30km and over,0.448066058,
+E09000031,Waltham Forest,4,Works mainly from home,0,0.457025803
+E09000032,Wandsworth,1,Less than 10km,0.47386194,
+E09000032,Wandsworth,2,10km to less than 30km,0.621216253,
+E09000032,Wandsworth,3,30km and over,0.428496595,
+E09000032,Wandsworth,4,Works mainly from home,0,0.618085662
+E09000033,Westminster,1,Less than 10km,0.453177043,
+E09000033,Westminster,2,10km to less than 30km,0.594207723,
+E09000033,Westminster,2,10km to less than 30km,0.594207723,
+E09000033,Westminster,3,30km and over,0.403587444,
+E09000033,Westminster,4,Works mainly from home,0,0.596826932
